@@ -1,0 +1,2 @@
+# Health-Information-Standards-and-Terminologies-Project
+Project Title: Clinician to lab - orders from EHR to be generated as a lab worklist item.  Description: A collection of terminology used in patient assessment, patient management, and treatment is referred to as "health care standards and terminologies." The terminology used in healthcare is coded differently in several standard coding systems. 
